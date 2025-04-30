@@ -25,6 +25,7 @@ This project analyzes and forecasts the economic implications of proposed 2025 U
 ├── data/
 │   ├── main.csv                # Final cleaned dataset
 │   └── README.md               # Dataset explanation
+├── Report.pdf                  # Final notebook summarizing anaylsis
 ├── Data_Collection.ipynb       # Web scraping scripts and data wrangling
 ├── EDA_TradePartners.ipynb     # EDA identifying key trade partners and trends
 ├── EDA_TariffAnalysis.ipynb    # Deeper look at tariff effects by country and product
