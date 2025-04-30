@@ -15,6 +15,8 @@ This project analyzes and forecasts the economic implications of proposed 2025 U
   - Time-Series Forecasting
   - Polynomial Regression
   - Simulation of retaliatory tariffs
+- For a full summary of methods, analysis, and conclusions, see the [final report (PDF)](report.pdf).
+
 
 ## Project Structure
 
